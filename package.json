@@ -15,7 +15,7 @@
   "dependencies": {
     "typeorm": "0.2.34",
     "reflect-metadata": "^0.1.10",
-    "pg": "^8.6.0"
+    "pg": "^8.7.1"
   },
   "scripts": {
     "start": "ts-node src/index.ts"
