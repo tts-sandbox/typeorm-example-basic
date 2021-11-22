@@ -13,7 +13,7 @@
     "typescript": "4.4.4"
   },
   "dependencies": {
-    "typeorm": "0.2.40",
+    "typeorm": "0.2.41",
     "reflect-metadata": "^0.1.10",
     "pg": "^8.7.1"
   },
